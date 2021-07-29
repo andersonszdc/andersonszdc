@@ -11,7 +11,7 @@
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Anderson-memoji" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Anderson-memoji" height="100" src="https://i.postimg.cc/T1smTKMP/gif-memoji.gif">
 </div>
   
   ##
@@ -25,4 +25,4 @@
   ![Snake animation](https://github.com/andersonszdc/andersonszdc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+ 
