@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Anderson Souza
-- 🌱 Agora eu estou aprendendo Next e Gatsby
+- 🌱 Agora eu estou me aprofundando no NextJS como full-stack
  <div>
   <a href="https://github.com/andersonszdc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonszdc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
