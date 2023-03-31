@@ -13,7 +13,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="GraphQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="right" alt="Anderson-memoji" height="100" src="https://i.postimg.cc/T1smTKMP/gif-memoji.gif">
 </div>
   
   ##
