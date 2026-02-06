@@ -1,4 +1,4 @@
-## Olá, eu sou o Anderson, um dev apaixonado por resolver problemas complexos.
+## Olá, eu sou o Anderson, um dev apaixonado por resolver problemas complexos com soluções simples.
 
 ### Minhas redes
 <div>
